@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (TP00.vcxproj, TP01.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  TP02.cpp
+c:\program files (x86)\windows kits\8.1\include\shared\minwindef.h(130): warning C4005: 'APIENTRY' : redéfinition de macro
+  c:\users\thomas\desktop\cours\dut imagerie\2a\open gl\tp\ressources\glfw\include\glfw\glfw3.h(98): note: voir la définition précédente de 'APIENTRY'
+c:\users\thomas\desktop\cours\dut imagerie\2a\open gl\tp\tps\tp02\tp02\tp02.cpp(45): warning C4101: 'pText' : variable locale non référencée
+  TP02.vcxproj -> C:\Users\Thomas\Desktop\Cours\DUT Imagerie\2A\Open GL\TP\Tps\TP02\Debug\TP02.exe
+  TP02.vcxproj -> C:\Users\Thomas\Desktop\Cours\DUT Imagerie\2A\Open GL\TP\Tps\TP02\Debug\TP02.pdb (Full PDB)

@@ -1,0 +1,36 @@
+﻿TP01.obj : error LNK2019: symbole externe non résolu __imp_glewInit référencé dans la fonction wmain
+TP01.obj : error LNK2019: symbole externe non résolu glfwInit référencé dans la fonction wmain
+TP01.obj : error LNK2019: symbole externe non résolu glfwTerminate référencé dans la fonction wmain
+TP01.obj : error LNK2019: symbole externe non résolu glfwGetPrimaryMonitor référencé dans la fonction wmain
+TP01.obj : error LNK2019: symbole externe non résolu glfwGetVideoMode référencé dans la fonction wmain
+TP01.obj : error LNK2019: symbole externe non résolu glfwWindowHint référencé dans la fonction wmain
+TP01.obj : error LNK2019: symbole externe non résolu glfwCreateWindow référencé dans la fonction wmain
+TP01.obj : error LNK2019: symbole externe non résolu glfwWindowShouldClose référencé dans la fonction wmain
+TP01.obj : error LNK2019: symbole externe non résolu glfwSetWindowShouldClose référencé dans la fonction "void __cdecl keyfunct(struct GLFWwindow *,int,int,int,int)" (?keyfunct@@YAXPEAUGLFWwindow@@HHHH@Z)
+TP01.obj : error LNK2019: symbole externe non résolu glfwGetWindowSize référencé dans la fonction "void __cdecl posfunct(struct GLFWwindow *,double,double)" (?posfunct@@YAXPEAUGLFWwindow@@NN@Z)
+TP01.obj : error LNK2019: symbole externe non résolu glfwSetWindowUserPointer référencé dans la fonction wmain
+TP01.obj : error LNK2019: symbole externe non résolu glfwGetWindowUserPointer référencé dans la fonction "void __cdecl keyfunct(struct GLFWwindow *,int,int,int,int)" (?keyfunct@@YAXPEAUGLFWwindow@@HHHH@Z)
+TP01.obj : error LNK2019: symbole externe non résolu glfwPollEvents référencé dans la fonction wmain
+TP01.obj : error LNK2019: symbole externe non résolu glfwSetKeyCallback référencé dans la fonction wmain
+TP01.obj : error LNK2019: symbole externe non résolu glfwSetCursorPosCallback référencé dans la fonction wmain
+TP01.obj : error LNK2019: symbole externe non résolu glfwMakeContextCurrent référencé dans la fonction wmain
+TP01.obj : error LNK2019: symbole externe non résolu glfwSwapBuffers référencé dans la fonction wmain
+TP01.obj : error LNK2001: symbole externe non résolu __imp___glewBindBuffer
+TP01.obj : error LNK2001: symbole externe non résolu __imp___glewBufferData
+TP01.obj : error LNK2001: symbole externe non résolu __imp___glewGenBuffers
+TP01.obj : error LNK2001: symbole externe non résolu __imp___glewAttachShader
+TP01.obj : error LNK2001: symbole externe non résolu __imp___glewCompileShader
+TP01.obj : error LNK2001: symbole externe non résolu __imp___glewCreateProgram
+TP01.obj : error LNK2001: symbole externe non résolu __imp___glewCreateShader
+TP01.obj : error LNK2001: symbole externe non résolu __imp___glewDeleteShader
+TP01.obj : error LNK2001: symbole externe non résolu __imp___glewEnableVertexAttribArray
+TP01.obj : error LNK2001: symbole externe non résolu __imp___glewLinkProgram
+TP01.obj : error LNK2001: symbole externe non résolu __imp___glewShaderSource
+TP01.obj : error LNK2001: symbole externe non résolu __imp___glewUseProgram
+TP01.obj : error LNK2001: symbole externe non résolu __imp___glewVertexAttribPointer
+TP01.obj : error LNK2001: symbole externe non résolu __imp___glewBindVertexArray
+TP01.obj : error LNK2001: symbole externe non résolu __imp___glewGenVertexArrays
+TP01.obj : error LNK2001: symbole externe non résolu __imp_glewExperimental
+C:\Users\Thomas\Desktop\Cours\DUT Imagerie\2A\Open GL\TP\Tps\TP01\..\..\Ressources\glew\lib\Release\Win32\glew32.lib : warning LNK4272: type d'ordinateur bibliothèque 'X86' en conflit avec le type d'ordinateur cible 'x64'
+C:\Users\Thomas\Desktop\Cours\DUT Imagerie\2A\Open GL\TP\Tps\TP01\..\..\Ressources\glfw\lib-vc2015\glfw3dll.lib : warning LNK4272: type d'ordinateur bibliothèque 'X86' en conflit avec le type d'ordinateur cible 'x64'
+C:\Users\Thomas\Desktop\Cours\DUT Imagerie\2A\Open GL\TP\Tps\TP01\x64\Debug\TP01.exe : fatal error LNK1120: 33 externes non résolus

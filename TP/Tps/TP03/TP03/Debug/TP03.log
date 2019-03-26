@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: Le répertoire intermédiaire (Debug\) contient des fichiers partagés provenant d'un autre projet (TP00.vcxproj, TP01.vcxproj, TP02.vcxproj). Cela peut entraîner un comportement de nettoyage et de régénération incorrect.
+     Création de la bibliothèque C:\Users\Antho\Documents\3dVisualizer\TP\Tps\TP03\Debug\TP03.lib et de l'objet C:\Users\Antho\Documents\3dVisualizer\TP\Tps\TP03\Debug\TP03.exp
+  TP03.vcxproj -> C:\Users\Antho\Documents\3dVisualizer\TP\Tps\TP03\Debug\TP03.exe

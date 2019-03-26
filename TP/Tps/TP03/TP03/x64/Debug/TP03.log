@@ -1,0 +1,11 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: Le répertoire intermédiaire (x64\Debug\) contient des fichiers partagés provenant d'un autre projet (TP01.vcxproj, TP02.vcxproj). Cela peut entraîner un comportement de nettoyage et de régénération incorrect.
+  stdafx.cpp
+  CBoolAndColor.cpp
+  Color.cpp
+  HelperFunctions.cpp
+c:\users\antho\documents\3dvisualizer\tp\tps\tp03\tp03\helperfunctions.h(6): warning C4005: '_T' : redéfinition de macro
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\tchar.h(2427): note: voir la définition précédente de '_T'
+  MeshLoader.cpp
+  TP03.cpp
+c:\users\antho\documents\3dvisualizer\tp\tps\tp03\tp03\tp03.cpp(13): fatal error C1083: Impossible d'ouvrir le fichier include : 'ShaderProgram.h' : No such file or directory
+  Génération de code en cours...
